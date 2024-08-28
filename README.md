@@ -31,8 +31,6 @@ Aqui está a organização dos diretórios do repositório:
 
 ## 👤 Autor
 
-## 👤 Autor
-
 **Weslem Rodrigues e Silva**  
 🎓 Curso: Análise e Desenvolvimento de Sistemas  
 👨‍🏫 Professor: [Gabriel Tavares](https://github.com/gabrieltavaresmelo)
