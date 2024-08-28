@@ -17,7 +17,7 @@ Para compilar e executar os códigos, você pode usar o GCC ou outro compilador 
 
 ```bash
 gcc nome_do_arquivo.c -o nome_do_executavel
-./nome_do_executavel```
+./nome_do_executavel
 
 📌 **Nota**: Substitua `nome_do_arquivo.c` pelo nome do arquivo que você deseja compilar e `nome_do_executavel` pelo nome do executável gerado.
 
