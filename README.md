@@ -10,6 +10,8 @@ Até agora, explorei e implementei os seguintes tópicos:
 - 🧮 **Vetores**: Operações básicas e avançadas com arrays.
 - 🏗️ **Struct**: Uso de `struct` e `typedef` para definir e trabalhar com tipos de dados complexos.
 - 💾 **Alocação de Memória**: Trabalhando com alocação dinâmica usando `malloc`, `calloc`, `realloc`, e `free`.
+- **🚶 Fila com Vetores**: Implementações e manipulação de filas utilizando vetores.
+- **🧱 Pilha com Vetores**: Implementações e manipulação de pilhas utilizando vetores.
 
 ## 🛠️ Como Compilar e Executar
 
@@ -29,7 +31,9 @@ Aqui está a organização dos diretórios do repositório:
 - `Cap 4/`: 📁 Códigos mais simples utilizando `if` e `else`.
 - `Ponteiros/`: 📁 Questões e exemplos sobre o uso de ponteiros.
 - `Struct/`: 📁 Exemplos de uso de `struct` com `typedef`.
-- `vetoresc/`: 📁 Operações e práticas com vetores.
+- `vetoresc/`: 📁 Operações e práticas com vetores
+- `FilaVetor/`: 📁 Implementações de filas utilizando vetores.
+- `PilhasVetor/`: 📁 Implementações de pilhas utilizando vetores.
 
 ## 📋 Informações
 
