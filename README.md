@@ -1,4 +1,4 @@
-# 🖥️ Estrutura de Dados em C
+<h1 align="center">🖥️ Estrutura de Dados em C</h1>
 
 Bem-vindo ao repositório da disciplina de **Estrutura de Dados**! 🚀 Aqui, você encontrará implementações de conceitos fundamentais de programação em C, desenvolvidas no **Instituto Federal do Ceará (IFCE) - Campus Boa Viagem, Ceará (CE)**.
 
